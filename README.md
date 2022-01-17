@@ -1,2 +1,3 @@
 # Fake-News_Detection
-Classify whether the news is Real or Fake
+Using parallel deep learning method to classify a news whether it is Real or Fake
+The dataset available at:
